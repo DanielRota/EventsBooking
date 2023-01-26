@@ -4,7 +4,7 @@ Daniel Rota 5IC 2022/2023 Tecnologie e Progettazione di Sistemi Informatici
 
 <h2> INTRODUZIONE </h2>
 
-Il software mette a disposizione una serie di funzionalità dedite alla manipolazione di persistenti presenti su un Database <i>MySQL</i>.
+Il software mette a disposizione una serie di funzionalità dedite alla manipolazione di dati persistenti presenti su un Database <i>MySQL</i>.
 
 Il tema di riferimento è la "Gestione di eventi" da parte di un utente, il quale possiede la possibilità di modificare dati già esistenti, aggiungerne di nuovi ed eliminare quelli già esistenti, oltre ovviamente a visualizzare quelli già creati.
 
